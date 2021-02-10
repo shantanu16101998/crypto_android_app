@@ -1,4 +1,4 @@
-# messenger_clone
+# Crypto chat app
 
 A new Flutter project.
 
